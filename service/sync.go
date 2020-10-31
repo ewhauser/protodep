@@ -7,10 +7,10 @@ import (
 	"strings"
 
 	"github.com/gobwas/glob"
-	"github.com/stormcat24/protodep/dependency"
-	"github.com/stormcat24/protodep/helper"
-	"github.com/stormcat24/protodep/logger"
-	"github.com/stormcat24/protodep/repository"
+	"github.com/ewhauser/protodep/dependency"
+	"github.com/ewhauser/protodep/helper"
+	"github.com/ewhauser/protodep/logger"
+	"github.com/ewhauser/protodep/repository"
 )
 
 type protoResource struct {
